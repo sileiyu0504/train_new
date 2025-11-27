@@ -1,5 +1,6 @@
-ultralytics/
 annotation/
 output_depth_images/
 unique/
+prepared_dataset/
+datasets/
 prepared_dataset/
