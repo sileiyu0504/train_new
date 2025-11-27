@@ -1,3 +1,4 @@
 {
   "chatgpt.preferWsl": true,
+  "chatgpt.runCodexInWindowsSubsystemForLinux": false,
 }

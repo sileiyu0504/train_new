@@ -1,0 +1,14 @@
+# RGB-D 纸箱数据集配置
+
+path: /mnt/e/Desktop/train_new/prepared_dataset  # 根目录（包含 images/labels/depth 子文件夹）
+train: images/train
+val: images/val
+
+depth:
+  train: depth/train
+  val: depth/val
+depth_replace: ["_color_", "_depth_"]  # RGB 文件名中的关键字替换规则
+depth_scale: 65535.0                   # 深度 PNG 的最大值（16bit）
+
+names:
+  0: carton
