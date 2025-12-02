@@ -99,6 +99,8 @@ class YOLODataset(BaseDataset):
         self.depth_replace = tuple(self.data.get("depth_replace", default_replace)) if self.data else default_replace
         self.depth_scale = float(self.data.get("depth_scale", 65535.0)) if self.data else 65535.0
         self.depth_fill = float(self.data.get("depth_fill_value", 0.0)) if self.data else 0.0
+        # 是否每张图按自身 min-max 归一化到 [0, 1]（统一真实/伪深度分布）
+        self.depth_per_image_norm = bool(self.data.get("depth_per_image_norm", True)) if self.data else True
         self.depth_fill_byte = np.uint8(np.clip(self.depth_fill, 0.0, 1.0) * 255)
         assert not (self.use_segments and self.use_keypoints), "Can not use both segments and keypoints."
         super().__init__(*args, channels=self.data.get("channels", 3), **kwargs)
@@ -145,9 +147,22 @@ class YOLODataset(BaseDataset):
             depth = depth[..., None]
         depth = cv2.resize(depth, (target_shape[1], target_shape[0]), interpolation=cv2.INTER_NEAREST)
         depth = depth.astype(np.float32)
-        scale = self.depth_scale if self.depth_scale > 0 else depth.max()
-        scale = scale if scale > 0 else 1.0
-        depth = np.clip(depth / scale, 0.0, 1.0)
+        if self.depth_per_image_norm:
+            valid = np.isfinite(depth)
+            if valid.any():
+                d_min = float(depth[valid].min())
+                d_max = float(depth[valid].max())
+            else:
+                d_min, d_max = 0.0, 0.0
+            if d_max > d_min:
+                depth = (depth - d_min) / (d_max - d_min)
+            else:
+                depth = np.zeros_like(depth, dtype=np.float32)
+        else:
+            scale = self.depth_scale if self.depth_scale > 0 else depth.max()
+            scale = scale if scale > 0 else 1.0
+            depth = depth / scale
+        depth = np.clip(depth, 0.0, 1.0)
         return depth
 
     def get_image_and_label(self, index: int) -> dict[str, Any]:

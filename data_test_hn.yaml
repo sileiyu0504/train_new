@@ -1,0 +1,11 @@
+# Hard Negative test set (no cartons). Labels are empty; any prediction counts as FP.
+path: /mnt/e/Desktop/train_new/datasets/YOLO_HN
+test: images/val
+
+# If pseudo-depth is generated for HN, uncomment below.
+# depth:
+#   test: depth/val
+# depth_scale: 65535.0
+
+names:
+  0: carton

@@ -1,0 +1,7 @@
+# Pure RGB training/validation on generated carton dataset
+path: /mnt/e/Desktop/train_new/datasets/YOLO_RGB_carton
+train: images/train2017
+val: images/val2017
+
+names:
+  0: carton

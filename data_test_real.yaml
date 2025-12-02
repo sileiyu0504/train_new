@@ -1,0 +1,11 @@
+# Real RGB-D test set (sensor-captured), used only for evaluation
+path: /mnt/e/Desktop/train_new/datasets/YOLO_RGBD_carton
+test: images/val
+
+depth:
+  test: depth/val
+depth_scale: 65535.0
+# Per-image min-max normalization in YOLODataset keeps distribution aligned with pseudo-depth.
+
+names:
+  0: carton
