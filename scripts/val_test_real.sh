@@ -20,7 +20,7 @@ for name in "${!RUNS[@]}"; do
     model="${weight}" \
     data=data_test_real.yaml \
     save_json=true \
-    > "${log_file}" 2>&1
+    | tee "${log_file}"
 done
 
 echo "[INFO] Validation complete. See logs/test_*_real.log"

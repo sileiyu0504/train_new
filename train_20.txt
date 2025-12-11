@@ -1,0 +1,2827 @@
+datasets/YOLO_RGB_carton/images/train2017/net (945).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (194).jpg
+datasets/YOLO_RGB_carton/images/train2017/2717.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (132).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (149).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8960).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (537).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (108).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_144238_1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1049).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15541).jpg
+datasets/YOLO_RGB_carton/images/train2017/1754.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (95).jpg
+datasets/YOLO_RGB_carton/images/train2017/3322.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11219).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3016).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6500).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (133).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13385).jpg
+datasets/YOLO_RGB_carton/images/train2017/1872.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15725).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (167).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2772).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8975).jpg
+datasets/YOLO_RGB_carton/images/train2017/895.jpg
+datasets/YOLO_RGB_carton/images/train2017/3400.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (37).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (737).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15715).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3346).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_094434.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7713).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (205).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (334).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12742).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6586).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6505).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (341).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (475).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (34).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (266).jpg
+datasets/YOLO_RGB_carton/images/train2017/541.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (341).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (170).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (200).jpg
+datasets/YOLO_RGB_carton/images/train2017/1686.jpg
+datasets/YOLO_RGB_carton/images/train2017/569.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8900).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1044).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_143427.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15364).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9406).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_135254.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (213).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (274).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14757).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2890).jpg
+datasets/YOLO_RGB_carton/images/train2017/2850.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7379).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1912).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1293).jpg
+datasets/YOLO_RGB_carton/images/train2017/1148.jpg
+datasets/YOLO_RGB_carton/images/train2017/3674.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1084).jpg
+datasets/YOLO_RGB_carton/images/train2017/1379.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15104).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14672).jpg
+datasets/YOLO_RGB_carton/images/train2017/2004.jpg
+datasets/YOLO_RGB_carton/images/train2017/3150.jpg
+datasets/YOLO_RGB_carton/images/train2017/1645.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8684).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2088).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11722).jpg
+datasets/YOLO_RGB_carton/images/train2017/3284.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_132713.jpg
+datasets/YOLO_RGB_carton/images/train2017/2461.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14005).jpg
+datasets/YOLO_RGB_carton/images/train2017/11.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (74).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4084).jpg
+datasets/YOLO_RGB_carton/images/train2017/1955.jpg
+datasets/YOLO_RGB_carton/images/train2017/2898.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1059).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7804).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8799).jpg
+datasets/YOLO_RGB_carton/images/train2017/3515.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2964).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1119).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6444).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_144642.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15032).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1182).jpg
+datasets/YOLO_RGB_carton/images/train2017/146.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (667).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5193).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (301).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4541).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (239).jpg
+datasets/YOLO_RGB_carton/images/train2017/484.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14538).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (259).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8013).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12652).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (196).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14037).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7115).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11291).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8484).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3899).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2604).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5041).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (75).jpg
+datasets/YOLO_RGB_carton/images/train2017/731.jpg
+datasets/YOLO_RGB_carton/images/train2017/3329.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3841).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (145).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2060).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (221).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14182).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1073).jpg
+datasets/YOLO_RGB_carton/images/train2017/3723.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6611).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_150426.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (57).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3209).jpg
+datasets/YOLO_RGB_carton/images/train2017/423.jpg
+datasets/YOLO_RGB_carton/images/train2017/24c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1885).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16029).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13867).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14213).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11276).jpg
+datasets/YOLO_RGB_carton/images/train2017/2329.jpg
+datasets/YOLO_RGB_carton/images/train2017/31.jpg
+datasets/YOLO_RGB_carton/images/train2017/750c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/2887.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (532).jpg
+datasets/YOLO_RGB_carton/images/train2017/620.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15666).jpg
+datasets/YOLO_RGB_carton/images/train2017/3120.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4273).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3419).jpg
+datasets/YOLO_RGB_carton/images/train2017/1313.jpg
+datasets/YOLO_RGB_carton/images/train2017/3412.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4178).jpg
+datasets/YOLO_RGB_carton/images/train2017/3163.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2984).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13467).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (111).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (117).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6020).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14089).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12042).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12004).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3281).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11231).jpg
+datasets/YOLO_RGB_carton/images/train2017/2144 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6416).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (162).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15466).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2959).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2370).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (98).jpg
+datasets/YOLO_RGB_carton/images/train2017/1334.jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (25).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8103).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13377).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3640).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14570).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15561).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14314).jpg
+datasets/YOLO_RGB_carton/images/train2017/1932.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13827).jpg
+datasets/YOLO_RGB_carton/images/train2017/2478.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6025).jpg
+datasets/YOLO_RGB_carton/images/train2017/992.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12190).jpg
+datasets/YOLO_RGB_carton/images/train2017/3408.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (152).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12711).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_125429.jpg
+datasets/YOLO_RGB_carton/images/train2017/155.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4045).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2771).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (221).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6003).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4180).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2500).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (41).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (74).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7831).jpg
+datasets/YOLO_RGB_carton/images/train2017/2537.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6011).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_125620.jpg
+datasets/YOLO_RGB_carton/images/train2017/106.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1901).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3114).jpg
+datasets/YOLO_RGB_carton/images/train2017/1484.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2541).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_140730.jpg
+datasets/YOLO_RGB_carton/images/train2017/300.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1737).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (418).jpg
+datasets/YOLO_RGB_carton/images/train2017/11332.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (61).jpg
+datasets/YOLO_RGB_carton/images/train2017/2450.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_143748.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12967).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8272).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11452).jpg
+datasets/YOLO_RGB_carton/images/train2017/2128.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2394).jpg
+datasets/YOLO_RGB_carton/images/train2017/1376.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8586).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11101).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6008).jpg
+datasets/YOLO_RGB_carton/images/train2017/3072.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8327).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8094).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (116).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12672).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1549).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_142900.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8155).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15084).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12725).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1563).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_130944.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (404).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (237).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_121856.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15378).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (248).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (128).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (428).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (35).jpg
+datasets/YOLO_RGB_carton/images/train2017/1907.jpg
+datasets/YOLO_RGB_carton/images/train2017/1086.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (79).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1145).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7537).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2591).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7030).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_132813.jpg
+datasets/YOLO_RGB_carton/images/train2017/2577.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13948).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1511).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14853).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_135527.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2983).jpg
+datasets/YOLO_RGB_carton/images/train2017/3342.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14396).jpg
+datasets/YOLO_RGB_carton/images/train2017/1362.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7391).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_091238.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5944).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (355).jpg
+datasets/YOLO_RGB_carton/images/train2017/883.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (371).jpg
+datasets/YOLO_RGB_carton/images/train2017/1198.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11497).jpg
+datasets/YOLO_RGB_carton/images/train2017/1256.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133615.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (90).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6947).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (580).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5177).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8558).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (34).jpg
+datasets/YOLO_RGB_carton/images/train2017/3402.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_134656.jpg
+datasets/YOLO_RGB_carton/images/train2017/3667.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (411).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8667).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7607).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (88).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6899).jpg
+datasets/YOLO_RGB_carton/images/train2017/2359.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6802).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (360).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3996).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3983).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (17).jpg
+datasets/YOLO_RGB_carton/images/train2017/312c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (365).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15776).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3233).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5399).jpg
+datasets/YOLO_RGB_carton/images/train2017/2963.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15305).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6167).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1254).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6760).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6853).jpg
+datasets/YOLO_RGB_carton/images/train2017/3286.jpg
+datasets/YOLO_RGB_carton/images/train2017/2693.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6873).jpg
+datasets/YOLO_RGB_carton/images/train2017/666.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14551).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (374).jpg
+datasets/YOLO_RGB_carton/images/train2017/172.jpg
+datasets/YOLO_RGB_carton/images/train2017/1251.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11578).jpg
+datasets/YOLO_RGB_carton/images/train2017/1319.jpg
+datasets/YOLO_RGB_carton/images/train2017/20.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8195).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15440).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7926).jpg
+datasets/YOLO_RGB_carton/images/train2017/2722.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5497).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9131).jpg
+datasets/YOLO_RGB_carton/images/train2017/1281.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7342).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9820).jpg
+datasets/YOLO_RGB_carton/images/train2017/3716.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12886).jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (41).jpg
+datasets/YOLO_RGB_carton/images/train2017/3063.jpg
+datasets/YOLO_RGB_carton/images/train2017/774c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2863).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5241).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9208).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (21).jpg
+datasets/YOLO_RGB_carton/images/train2017/2482.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (262).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14661).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7613).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (219).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13018).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (447).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6392).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16096).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (417).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15760).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (183).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (56).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15949).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15369).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (108).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6963).jpg
+datasets/YOLO_RGB_carton/images/train2017/975.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_090710.jpg
+datasets/YOLO_RGB_carton/images/train2017/2057.jpg
+datasets/YOLO_RGB_carton/images/train2017/2721.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (225).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8064).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12061).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (120).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (233).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11222).jpg
+datasets/YOLO_RGB_carton/images/train2017/1833.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6034).jpg
+datasets/YOLO_RGB_carton/images/train2017/738c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8054).jpg
+datasets/YOLO_RGB_carton/images/train2017/1596.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (282).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6384).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6719).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8857).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1009).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7564).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5793).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3296).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13336).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_122140.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (49).jpg
+datasets/YOLO_RGB_carton/images/train2017/1975.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (101).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6435).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (80).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3093).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (139).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11319).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12425).jpg
+datasets/YOLO_RGB_carton/images/train2017/2738.jpg
+datasets/YOLO_RGB_carton/images/train2017/2308.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6002).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (364).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (11).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (274).jpg
+datasets/YOLO_RGB_carton/images/train2017/2484.jpg
+datasets/YOLO_RGB_carton/images/train2017/1539.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2758).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (78).jpg
+datasets/YOLO_RGB_carton/images/train2017/2432.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_120746.jpg
+datasets/YOLO_RGB_carton/images/train2017/3466.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3322).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12309).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15484).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (185).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14318).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2810).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6006).jpg
+datasets/YOLO_RGB_carton/images/train2017/3579.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8330).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5410).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2554).jpg
+datasets/YOLO_RGB_carton/images/train2017/940.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9140).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7007).jpg
+datasets/YOLO_RGB_carton/images/train2017/3460.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3331).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4422).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (552).jpg
+datasets/YOLO_RGB_carton/images/train2017/2936.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2905).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15944).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5013).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (308).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8567).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8105).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7238).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1265).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15325).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9370).jpg
+datasets/YOLO_RGB_carton/images/train2017/2240.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_091145.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15078).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (158).jpg
+datasets/YOLO_RGB_carton/images/train2017/2588.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (59).jpg
+datasets/YOLO_RGB_carton/images/train2017/162c2.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12479).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15480).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8746).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14883).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_123741.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1612).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12899).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (295).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12432).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16047).jpg
+datasets/YOLO_RGB_carton/images/train2017/1323.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (175).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (423).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (209).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (264).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (198).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1515).jpg
+datasets/YOLO_RGB_carton/images/train2017/2206.jpg
+datasets/YOLO_RGB_carton/images/train2017/1652.jpg
+datasets/YOLO_RGB_carton/images/train2017/3308 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6269).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4148).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13013).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_130849.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12551).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4114).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9419).jpg
+datasets/YOLO_RGB_carton/images/train2017/266.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8700).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4320).jpg
+datasets/YOLO_RGB_carton/images/train2017/2263 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (121).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (55).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (172).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13670).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5450).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4010).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5472).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (13).jpg
+datasets/YOLO_RGB_carton/images/train2017/2139.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5209).jpg
+datasets/YOLO_RGB_carton/images/train2017/1771.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (43).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2246).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12471).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2024).jpg
+datasets/YOLO_RGB_carton/images/train2017/108c2.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15993).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (89).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15729).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5551).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15164).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3143).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7364).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8535).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1899).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2555).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12781).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2147).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (83).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14860).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (288).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4535).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12557).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (4).jpg
+datasets/YOLO_RGB_carton/images/train2017/3577.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2623).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13038).jpg
+datasets/YOLO_RGB_carton/images/train2017/2344.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3355).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7980).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (64).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6065).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (98).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8822).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_125446.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (11).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3554).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15473).jpg
+datasets/YOLO_RGB_carton/images/train2017/g2 (26).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4440).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (138).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8618).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (72).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14080).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9022).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_132729.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6083).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15472).jpg
+datasets/YOLO_RGB_carton/images/train2017/597.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (415).jpg
+datasets/YOLO_RGB_carton/images/train2017/983.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2238).jpg
+datasets/YOLO_RGB_carton/images/train2017/2170.jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (81).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3201).jpg
+datasets/YOLO_RGB_carton/images/train2017/2340.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7154).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1448).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6669).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (159).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1068).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15724).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_141410.jpg
+datasets/YOLO_RGB_carton/images/train2017/1567.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (233).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (392).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (121).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6281).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (778).jpg
+datasets/YOLO_RGB_carton/images/train2017/246c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5627).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2526).jpg
+datasets/YOLO_RGB_carton/images/train2017/1314.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3158).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (371).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (254).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (430).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8374).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (123).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (11).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9443).jpg
+datasets/YOLO_RGB_carton/images/train2017/2190.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_144811.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (245).jpg
+datasets/YOLO_RGB_carton/images/train2017/1257.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (48).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_142451.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12336).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13568).jpg
+datasets/YOLO_RGB_carton/images/train2017/3647.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (257).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (690).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (169).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11006).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2311).jpg
+datasets/YOLO_RGB_carton/images/train2017/3263.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_094334.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (279).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (237).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2543).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15843).jpg
+datasets/YOLO_RGB_carton/images/train2017/3256.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (172).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1362).jpg
+datasets/YOLO_RGB_carton/images/train2017/1488 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (309).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11099).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3510).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5838).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2919).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4527).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (59).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1766).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (59).jpg
+datasets/YOLO_RGB_carton/images/train2017/2265.jpg
+datasets/YOLO_RGB_carton/images/train2017/387.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14722).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7696).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6388).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8131).jpg
+datasets/YOLO_RGB_carton/images/train2017/1551.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9331).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (85).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8492).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (965).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_143028.jpg
+datasets/YOLO_RGB_carton/images/train2017/3737.jpg
+datasets/YOLO_RGB_carton/images/train2017/797.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2206).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7254).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1910).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6602).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (158).jpg
+datasets/YOLO_RGB_carton/images/train2017/695.jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (29).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6736).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_123520.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8466).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2684).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (43).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5807).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15110).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (227).jpg
+datasets/YOLO_RGB_carton/images/train2017/2518.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (100).jpg
+datasets/YOLO_RGB_carton/images/train2017/3549.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14514).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6729).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12553).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9901).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11668).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7362).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11361).jpg
+datasets/YOLO_RGB_carton/images/train2017/2160.jpg
+datasets/YOLO_RGB_carton/images/train2017/2226.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7844).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (148).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15462).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2824).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (994).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_132817_1.jpg
+datasets/YOLO_RGB_carton/images/train2017/3594.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3811).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (867).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15216).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2566).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_150933.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (529).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3140).jpg
+datasets/YOLO_RGB_carton/images/train2017/1428.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2386).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16074).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (257).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8948).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12372).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7928).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6324).jpg
+datasets/YOLO_RGB_carton/images/train2017/280.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5096).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3450).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2842).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15586).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15447).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15648).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3136).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (35).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (86).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6943).jpg
+datasets/YOLO_RGB_carton/images/train2017/2200.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (107).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (393).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6103).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (188).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5431).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8762).jpg
+datasets/YOLO_RGB_carton/images/train2017/1138.jpg
+datasets/YOLO_RGB_carton/images/train2017/1247.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3539).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (260).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8927).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2128).jpg
+datasets/YOLO_RGB_carton/images/train2017/1044.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (256).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8423).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1862).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (460).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (490).jpg
+datasets/YOLO_RGB_carton/images/train2017/3593.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (766).jpg
+datasets/YOLO_RGB_carton/images/train2017/348c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (98).jpg
+datasets/YOLO_RGB_carton/images/train2017/2454.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (101).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_125818.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5164).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5590).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2172).jpg
+datasets/YOLO_RGB_carton/images/train2017/433.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_114652.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (352).jpg
+datasets/YOLO_RGB_carton/images/train2017/g2 (65).jpg
+datasets/YOLO_RGB_carton/images/train2017/3055.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13508).jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (95).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6599).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_145020.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6976).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (30).jpg
+datasets/YOLO_RGB_carton/images/train2017/1658.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6148).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15108).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5364).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (167).jpg
+datasets/YOLO_RGB_carton/images/train2017/118.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15601).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4867).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15128).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (113).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13676).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5272).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (361).jpg
+datasets/YOLO_RGB_carton/images/train2017/2295.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (218).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (202).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6137).jpg
+datasets/YOLO_RGB_carton/images/train2017/587.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (16).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6793).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2260).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (553).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5968).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (39).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7104).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (231).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (245).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3526).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (450).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2966).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12088).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6905).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15540).jpg
+datasets/YOLO_RGB_carton/images/train2017/409.jpg
+datasets/YOLO_RGB_carton/images/train2017/3745.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13373).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_141555.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5285).jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (58).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (339).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (3).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (329).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3524).jpg
+datasets/YOLO_RGB_carton/images/train2017/2834.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (219).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4194).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3400).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8615).jpg
+datasets/YOLO_RGB_carton/images/train2017/1147.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8427).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15478).jpg
+datasets/YOLO_RGB_carton/images/train2017/511.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2334).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11915).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8577).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2106).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2055).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (187).jpg
+datasets/YOLO_RGB_carton/images/train2017/3439.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5566).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13348).jpg
+datasets/YOLO_RGB_carton/images/train2017/3437.jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (38).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8007).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6746).jpg
+datasets/YOLO_RGB_carton/images/train2017/00c12.jpg
+datasets/YOLO_RGB_carton/images/train2017/3678.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5977).jpg
+datasets/YOLO_RGB_carton/images/train2017/2694.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14462).jpg
+datasets/YOLO_RGB_carton/images/train2017/2993.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (84).jpg
+datasets/YOLO_RGB_carton/images/train2017/3538.jpg
+datasets/YOLO_RGB_carton/images/train2017/479.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_145538.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6607).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15430).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (21).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (234).jpg
+datasets/YOLO_RGB_carton/images/train2017/577.jpg
+datasets/YOLO_RGB_carton/images/train2017/2210.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7617).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15240).jpg
+datasets/YOLO_RGB_carton/images/train2017/3527.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (300).jpg
+datasets/YOLO_RGB_carton/images/train2017/3156.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4763).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (454).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12714).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5245).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (219).jpg
+datasets/YOLO_RGB_carton/images/train2017/2526.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2723).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_143320.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6152).jpg
+datasets/YOLO_RGB_carton/images/train2017/1287.jpg
+datasets/YOLO_RGB_carton/images/train2017/g2 (48).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (385).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (96).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5849).jpg
+datasets/YOLO_RGB_carton/images/train2017/564.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4122).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13769).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (42).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8186).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6552).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14569).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13390).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3145).jpg
+datasets/YOLO_RGB_carton/images/train2017/1322.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5389).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5133).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3347).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (395).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (335).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15591).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (256).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3036).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1114).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (31).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7983).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4985).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14410).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13526).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1099).jpg
+datasets/YOLO_RGB_carton/images/train2017/3356.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_142803.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7189).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13674).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2029).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2976).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14004).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9135).jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (37).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7381).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13773).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (176).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8063).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (43).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7495).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11527).jpg
+datasets/YOLO_RGB_carton/images/train2017/251.jpg
+datasets/YOLO_RGB_carton/images/train2017/1605.jpg
+datasets/YOLO_RGB_carton/images/train2017/3405.jpg
+datasets/YOLO_RGB_carton/images/train2017/2767.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_150223.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11131).jpg
+datasets/YOLO_RGB_carton/images/train2017/609 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14439).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15209).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_140404.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (132).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3056).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1894).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4643).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2519).jpg
+datasets/YOLO_RGB_carton/images/train2017/617.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11074).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (305).jpg
+datasets/YOLO_RGB_carton/images/train2017/1679.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_094424.jpg
+datasets/YOLO_RGB_carton/images/train2017/2183.jpg
+datasets/YOLO_RGB_carton/images/train2017/2597.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5143).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6262).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (182).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4208).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2829).jpg
+datasets/YOLO_RGB_carton/images/train2017/153.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14709).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (18).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (32).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11290).jpg
+datasets/YOLO_RGB_carton/images/train2017/2467.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (66).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (390).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (303).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_120544.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (242).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_123726.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (539).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_131218.jpg
+datasets/YOLO_RGB_carton/images/train2017/2368.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_131243_1.jpg
+datasets/YOLO_RGB_carton/images/train2017/2123.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (382).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15633).jpg
+datasets/YOLO_RGB_carton/images/train2017/370.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1036).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13733).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4582).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1262).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8441).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (750).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7711).jpg
+datasets/YOLO_RGB_carton/images/train2017/1769.jpg
+datasets/YOLO_RGB_carton/images/train2017/3629.jpg
+datasets/YOLO_RGB_carton/images/train2017/3131.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12360).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13301).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1733).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14800).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12560).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (107).jpg
+datasets/YOLO_RGB_carton/images/train2017/2172.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9057).jpg
+datasets/YOLO_RGB_carton/images/train2017/1191.jpg
+datasets/YOLO_RGB_carton/images/train2017/3420.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3425).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (432).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14975).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1460).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14675).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7668).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2655).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_135417.jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (78).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14856).jpg
+datasets/YOLO_RGB_carton/images/train2017/1266.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4061).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5707).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (265).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13180).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (500).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5701).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (163).jpg
+datasets/YOLO_RGB_carton/images/train2017/1740.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8314).jpg
+datasets/YOLO_RGB_carton/images/train2017/2870 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/1524.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11087).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4065).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (68).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7432).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (485).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (125).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3791).jpg
+datasets/YOLO_RGB_carton/images/train2017/1230.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4091).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9181).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3765).jpg
+datasets/YOLO_RGB_carton/images/train2017/1135.jpg
+datasets/YOLO_RGB_carton/images/train2017/792.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8344).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_151636.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3896).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14043).jpg
+datasets/YOLO_RGB_carton/images/train2017/2664 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14477).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (61).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6174).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8409).jpg
+datasets/YOLO_RGB_carton/images/train2017/3601.jpg
+datasets/YOLO_RGB_carton/images/train2017/2121.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (174).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (271).jpg
+datasets/YOLO_RGB_carton/images/train2017/400.jpg
+datasets/YOLO_RGB_carton/images/train2017/2652.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13265).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (235).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6341).jpg
+datasets/YOLO_RGB_carton/images/train2017/3211.jpg
+datasets/YOLO_RGB_carton/images/train2017/1733.jpg
+datasets/YOLO_RGB_carton/images/train2017/3613 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/2689.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8226).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4534).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5943).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (259).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6863).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (512).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13490).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (646).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (86).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9976).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (364).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2896).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11137).jpg
+datasets/YOLO_RGB_carton/images/train2017/798.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15236).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (80).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11012).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2830).jpg
+datasets/YOLO_RGB_carton/images/train2017/2494.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12758).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (16).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (384).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (166).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15360).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9078).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_125101.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (237).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9484).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3003).jpg
+datasets/YOLO_RGB_carton/images/train2017/1422.jpg
+datasets/YOLO_RGB_carton/images/train2017/3612.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12574).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (138).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2014).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (75).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4168).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (58).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12807).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (105).jpg
+datasets/YOLO_RGB_carton/images/train2017/3339.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15872).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4101).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2355).jpg
+datasets/YOLO_RGB_carton/images/train2017/1945.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12547).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (438).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7868).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3929).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6671).jpg
+datasets/YOLO_RGB_carton/images/train2017/3471.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4968).jpg
+datasets/YOLO_RGB_carton/images/train2017/2765.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7867).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16043).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14953).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5522).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6880).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5126).jpg
+datasets/YOLO_RGB_carton/images/train2017/3092.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (41).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15667).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (447).jpg
+datasets/YOLO_RGB_carton/images/train2017/1890.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2794).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4424).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4645).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (502).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7459).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (41).jpg
+datasets/YOLO_RGB_carton/images/train2017/780c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6562).jpg
+datasets/YOLO_RGB_carton/images/train2017/747.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14746).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14844).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (100).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (187).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3054).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15953).jpg
+datasets/YOLO_RGB_carton/images/train2017/1277.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5712).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5595).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11168).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6094).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3789).jpg
+datasets/YOLO_RGB_carton/images/train2017/1161.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5906).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (217).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11546).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5528).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (66).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (368).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8497).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (155).jpg
+datasets/YOLO_RGB_carton/images/train2017/357.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_094349.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8228).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4016).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (158).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3377).jpg
+datasets/YOLO_RGB_carton/images/train2017/908.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_135517.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4276).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2352).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15077).jpg
+datasets/YOLO_RGB_carton/images/train2017/3566.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (275).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11407).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (346).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (219).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16117).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (253).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15351).jpg
+datasets/YOLO_RGB_carton/images/train2017/1363.jpg
+datasets/YOLO_RGB_carton/images/train2017/1707.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (420).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11144).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133303.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15587).jpg
+datasets/YOLO_RGB_carton/images/train2017/2419.jpg
+datasets/YOLO_RGB_carton/images/train2017/959.jpg
+datasets/YOLO_RGB_carton/images/train2017/3501.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (422).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (263).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3465).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12466).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (64).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5402).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4639).jpg
+datasets/YOLO_RGB_carton/images/train2017/1031.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (7).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (98).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (51).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (203).jpg
+datasets/YOLO_RGB_carton/images/train2017/2755.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6796).jpg
+datasets/YOLO_RGB_carton/images/train2017/3395.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3938).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8285).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_094504.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15018).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (109).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3292).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4764).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3117).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7582).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (117).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9944).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1577).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12204).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4174).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (508).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (28).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4394).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6958).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (227).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4379).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (93).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (189).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8339).jpg
+datasets/YOLO_RGB_carton/images/train2017/527.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2145).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15057).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15377).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3834).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11354).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_144327_1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6496).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6470).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3059).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13663).jpg
+datasets/YOLO_RGB_carton/images/train2017/1782.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2921).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14499).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14541).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (186).jpg
+datasets/YOLO_RGB_carton/images/train2017/2094.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14974).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (387).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (8).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6087).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7291).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7622).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3616).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6347).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133050.jpg
+datasets/YOLO_RGB_carton/images/train2017/1949.jpg
+datasets/YOLO_RGB_carton/images/train2017/383.jpg
+datasets/YOLO_RGB_carton/images/train2017/684.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13495).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6624).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (484).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15278).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14657).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (436).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4441).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11835).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3278).jpg
+datasets/YOLO_RGB_carton/images/train2017/3134.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8643).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2574).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (153).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (104).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (257).jpg
+datasets/YOLO_RGB_carton/images/train2017/175.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7646).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2980).jpg
+datasets/YOLO_RGB_carton/images/train2017/2185.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7319).jpg
+datasets/YOLO_RGB_carton/images/train2017/2819.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_134848_1.jpg
+datasets/YOLO_RGB_carton/images/train2017/2111.jpg
+datasets/YOLO_RGB_carton/images/train2017/y (153).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (87).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1715).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5319).jpg
+datasets/YOLO_RGB_carton/images/train2017/3714.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5544).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (890).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (525).jpg
+datasets/YOLO_RGB_carton/images/train2017/230.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2855).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7667).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7033).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2599).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4608).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (13).jpg
+datasets/YOLO_RGB_carton/images/train2017/200.jpg
+datasets/YOLO_RGB_carton/images/train2017/1097.jpg
+datasets/YOLO_RGB_carton/images/train2017/2173.jpg
+datasets/YOLO_RGB_carton/images/train2017/985 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2603).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3412).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16067).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15303).jpg
+datasets/YOLO_RGB_carton/images/train2017/2010.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1571).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3598).jpg
+datasets/YOLO_RGB_carton/images/train2017/2648.jpg
+datasets/YOLO_RGB_carton/images/train2017/169 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/21231.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6975).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7028).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (172).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_125616.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1383).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (221).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_144841.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5657).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4592).jpg
+datasets/YOLO_RGB_carton/images/train2017/2460.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13104).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6001).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5368).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11051).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11948).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (43).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (532).jpg
+datasets/YOLO_RGB_carton/images/train2017/978.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (127).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (157).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (357).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_142509.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (258).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_144641.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6939).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (226).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (103).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3167).jpg
+datasets/YOLO_RGB_carton/images/train2017/242.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_094639.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8451).jpg
+datasets/YOLO_RGB_carton/images/train2017/2262.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (71).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8659).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13186).jpg
+datasets/YOLO_RGB_carton/images/train2017/2865.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4097).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (207).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3932).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15745).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (205).jpg
+datasets/YOLO_RGB_carton/images/train2017/3276.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3406).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2255).jpg
+datasets/YOLO_RGB_carton/images/train2017/612.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (414).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (182).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13818).jpg
+datasets/YOLO_RGB_carton/images/train2017/1562.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13871).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (255).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9126).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (48).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6834).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (52).jpg
+datasets/YOLO_RGB_carton/images/train2017/3675.jpg
+datasets/YOLO_RGB_carton/images/train2017/1056.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12328).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12043).jpg
+datasets/YOLO_RGB_carton/images/train2017/1176.jpg
+datasets/YOLO_RGB_carton/images/train2017/y (199).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (169).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7343).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8100).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3364).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (35).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7384).jpg
+datasets/YOLO_RGB_carton/images/train2017/874.jpg
+datasets/YOLO_RGB_carton/images/train2017/557.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_142520.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (128).jpg
+datasets/YOLO_RGB_carton/images/train2017/2178.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (53).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (214).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3654).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3354).jpg
+datasets/YOLO_RGB_carton/images/train2017/240.jpg
+datasets/YOLO_RGB_carton/images/train2017/267.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11418).jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (43).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6788).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_131529.jpg
+datasets/YOLO_RGB_carton/images/train2017/1496.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8259).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7743).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11207).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7312).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_091811.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (380).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (468).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6648).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15329).jpg
+datasets/YOLO_RGB_carton/images/train2017/758.jpg
+datasets/YOLO_RGB_carton/images/train2017/2556.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2208).jpg
+datasets/YOLO_RGB_carton/images/train2017/2608.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11508).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (9).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (217).jpg
+datasets/YOLO_RGB_carton/images/train2017/2959.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5102).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12315).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2008).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1748).jpg
+datasets/YOLO_RGB_carton/images/train2017/47.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6986).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14341).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2204).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (337).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (556).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3588).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6759).jpg
+datasets/YOLO_RGB_carton/images/train2017/298.jpg
+datasets/YOLO_RGB_carton/images/train2017/3359.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13523).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8459).jpg
+datasets/YOLO_RGB_carton/images/train2017/981.jpg
+datasets/YOLO_RGB_carton/images/train2017/3433.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6936).jpg
+datasets/YOLO_RGB_carton/images/train2017/3228.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (24).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14645).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_132801_1.jpg
+datasets/YOLO_RGB_carton/images/train2017/1897.jpg
+datasets/YOLO_RGB_carton/images/train2017/204c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15565).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11747).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (209).jpg
+datasets/YOLO_RGB_carton/images/train2017/3522.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12522).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15319).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12442).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12923).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12699).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2044).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6337).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4047).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3870).jpg
+datasets/YOLO_RGB_carton/images/train2017/1440.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7099).jpg
+datasets/YOLO_RGB_carton/images/train2017/2263.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (50).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3109).jpg
+datasets/YOLO_RGB_carton/images/train2017/2650.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2779).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12057).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (106).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3365).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12670).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (260).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3771).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11505).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11029).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6842).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13089).jpg
+datasets/YOLO_RGB_carton/images/train2017/1430.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (162).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2288).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (139).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12565).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5983).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (125).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8247).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3820).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (186).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14204).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6061).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (325).jpg
+datasets/YOLO_RGB_carton/images/train2017/g2 (3).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_143427.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5314).jpg
+datasets/YOLO_RGB_carton/images/train2017/167.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7324).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6433).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (427).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9941).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (354).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3025).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (282).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5382).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13683).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (375).jpg
+datasets/YOLO_RGB_carton/images/train2017/2838.jpg
+datasets/YOLO_RGB_carton/images/train2017/y (182).jpg
+datasets/YOLO_RGB_carton/images/train2017/3198.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (136).jpg
+datasets/YOLO_RGB_carton/images/train2017/2276.jpg
+datasets/YOLO_RGB_carton/images/train2017/3438.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16036).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2496).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2137).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2985).jpg
+datasets/YOLO_RGB_carton/images/train2017/3541.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8729).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6014).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (20).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2697).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7100).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5188).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (49).jpg
+datasets/YOLO_RGB_carton/images/train2017/1874.jpg
+datasets/YOLO_RGB_carton/images/train2017/1728.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_091931.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6490).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3100).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9540).jpg
+datasets/YOLO_RGB_carton/images/train2017/945.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (193).jpg
+datasets/YOLO_RGB_carton/images/train2017/2535.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3156).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8711).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6724).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_145415.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13175).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15567).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (116).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (89).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (349).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8556).jpg
+datasets/YOLO_RGB_carton/images/train2017/131.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12981).jpg
+datasets/YOLO_RGB_carton/images/train2017/207.jpg
+datasets/YOLO_RGB_carton/images/train2017/1250.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2087).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (34).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8763).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7934).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (214).jpg
+datasets/YOLO_RGB_carton/images/train2017/2707.jpg
+datasets/YOLO_RGB_carton/images/train2017/2061 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7279).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (325).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7698).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14215).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (321).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12161).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (140).jpg
+datasets/YOLO_RGB_carton/images/train2017/1622.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15943).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (245).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12070).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8200).jpg
+datasets/YOLO_RGB_carton/images/train2017/2501.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (179).jpg
+datasets/YOLO_RGB_carton/images/train2017/2293.jpg
+datasets/YOLO_RGB_carton/images/train2017/111.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11665).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13380).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (101).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (58).jpg
+datasets/YOLO_RGB_carton/images/train2017/190.jpg
+datasets/YOLO_RGB_carton/images/train2017/401.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8592).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (116).jpg
+datasets/YOLO_RGB_carton/images/train2017/385.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6452).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12937).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14586).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5506).jpg
+datasets/YOLO_RGB_carton/images/train2017/212.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (137).jpg
+datasets/YOLO_RGB_carton/images/train2017/1353.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4081).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12065).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_130541.jpg
+datasets/YOLO_RGB_carton/images/train2017/1074.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5704).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12549).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (228).jpg
+datasets/YOLO_RGB_carton/images/train2017/2864 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1784).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (270).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5033).jpg
+datasets/YOLO_RGB_carton/images/train2017/2885.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13971).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2899).jpg
+datasets/YOLO_RGB_carton/images/train2017/3517.jpg
+datasets/YOLO_RGB_carton/images/train2017/1434.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (344).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5861).jpg
+datasets/YOLO_RGB_carton/images/train2017/1699.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (94).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (124).jpg
+datasets/YOLO_RGB_carton/images/train2017/3758.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (28).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (75).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2054).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15070).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15538).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3918).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (124).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (494).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9064).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12716).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1415).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13007).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13387).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1740).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (20).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12342).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_150949.jpg
+datasets/YOLO_RGB_carton/images/train2017/2828.jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (104).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11100).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9804).jpg
+datasets/YOLO_RGB_carton/images/train2017/603.jpg
+datasets/YOLO_RGB_carton/images/train2017/333.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (470).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9312).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9063).jpg
+datasets/YOLO_RGB_carton/images/train2017/3739.jpg
+datasets/YOLO_RGB_carton/images/train2017/384c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12118).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4222).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1505).jpg
+datasets/YOLO_RGB_carton/images/train2017/3095.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (18).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6553).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (505).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3333).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4255).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1034).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6215).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (413).jpg
+datasets/YOLO_RGB_carton/images/train2017/g2 (59).jpg
+datasets/YOLO_RGB_carton/images/train2017/1651.jpg
+datasets/YOLO_RGB_carton/images/train2017/1212.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15577).jpg
+datasets/YOLO_RGB_carton/images/train2017/3008.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (223).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2072).jpg
+datasets/YOLO_RGB_carton/images/train2017/3666.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9084).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13017).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7925).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5905).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7337).jpg
+datasets/YOLO_RGB_carton/images/train2017/1268.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8347).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_125302.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15946).jpg
+datasets/YOLO_RGB_carton/images/train2017/234c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7876).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7251).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (31).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6934).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7313).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3319).jpg
+datasets/YOLO_RGB_carton/images/train2017/2669.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8881).jpg
+datasets/YOLO_RGB_carton/images/train2017/3469.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11710).jpg
+datasets/YOLO_RGB_carton/images/train2017/2249.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6957).jpg
+datasets/YOLO_RGB_carton/images/train2017/93.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (52).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11089).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14045).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (34).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11997).jpg
+datasets/YOLO_RGB_carton/images/train2017/1167.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (328).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3211).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (387).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5613).jpg
+datasets/YOLO_RGB_carton/images/train2017/1626.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (267).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11363).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (730).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3527).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (298).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14252).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (757).jpg
+datasets/YOLO_RGB_carton/images/train2017/1849.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1568).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11072).jpg
+datasets/YOLO_RGB_carton/images/train2017/2757.jpg
+datasets/YOLO_RGB_carton/images/train2017/7790.jpg
+datasets/YOLO_RGB_carton/images/train2017/2103.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (543).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13058).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (548).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (414).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3514).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2375).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7403).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2992).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8050).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_131442.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7526).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2877).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4556).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (322).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (380).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (71).jpg
+datasets/YOLO_RGB_carton/images/train2017/1292.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (80).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1079).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5914).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6843).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3164).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12490).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (196).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (53).jpg
+datasets/YOLO_RGB_carton/images/train2017/469.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7650).jpg
+datasets/YOLO_RGB_carton/images/train2017/3214.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_130420.jpg
+datasets/YOLO_RGB_carton/images/train2017/2952.jpg
+datasets/YOLO_RGB_carton/images/train2017/1390.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5757).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7348).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_131905.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3551).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15910).jpg
+datasets/YOLO_RGB_carton/images/train2017/949.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7752).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3180).jpg
+datasets/YOLO_RGB_carton/images/train2017/2018.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7179).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (96).jpg
+datasets/YOLO_RGB_carton/images/train2017/2724.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7907).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5900).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_091215.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (270).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14664).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14597).jpg
+datasets/YOLO_RGB_carton/images/train2017/1349.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (213).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14581).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3662).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15827).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9442).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2466).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5675).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2399).jpg
+datasets/YOLO_RGB_carton/images/train2017/3195.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_134842.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7289).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7414).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (216).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2694).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5184).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13664).jpg
+datasets/YOLO_RGB_carton/images/train2017/3020.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3611).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (382).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (51).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16109).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5574).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3833).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15599).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (839).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8003).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133710.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (165).jpg
+datasets/YOLO_RGB_carton/images/train2017/3065.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7046).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4365).jpg
+datasets/YOLO_RGB_carton/images/train2017/2214.jpg
+datasets/YOLO_RGB_carton/images/train2017/3006.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8741).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7615).jpg
+datasets/YOLO_RGB_carton/images/train2017/124.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6270).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15658).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (230).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (18).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (421).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8510).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_143607.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (243).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14878).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15231).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7426).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7176).jpg
+datasets/YOLO_RGB_carton/images/train2017/3288.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3452).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (346).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_142038.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (62).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (182).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14659).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14106).jpg
+datasets/YOLO_RGB_carton/images/train2017/1028.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15275).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15727).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (5).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3481).jpg
+datasets/YOLO_RGB_carton/images/train2017/3677.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (943).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (452).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4321).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (129).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5852).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2712).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4511).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5799).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14942).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12975).jpg
+datasets/YOLO_RGB_carton/images/train2017/3791.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6104).jpg
+datasets/YOLO_RGB_carton/images/train2017/1797.jpg
+datasets/YOLO_RGB_carton/images/train2017/1970.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (178).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6029).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8405).jpg
+datasets/YOLO_RGB_carton/images/train2017/523.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (137).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (238).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (34).jpg
+datasets/YOLO_RGB_carton/images/train2017/805.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (62).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (119).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13945).jpg
+datasets/YOLO_RGB_carton/images/train2017/1800.jpg
+datasets/YOLO_RGB_carton/images/train2017/10.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (546).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1692).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6722).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133215.jpg
+datasets/YOLO_RGB_carton/images/train2017/2876.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3487).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (348).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (321).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14995).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2798).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (11).jpg
+datasets/YOLO_RGB_carton/images/train2017/3335.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12880).jpg
+datasets/YOLO_RGB_carton/images/train2017/283.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3131).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (238).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12693).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3055).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11555).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5009).jpg
+datasets/YOLO_RGB_carton/images/train2017/2471.jpg
+datasets/YOLO_RGB_carton/images/train2017/920.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (422).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7003).jpg
+datasets/YOLO_RGB_carton/images/train2017/3451.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (70).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7685).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14831).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15137).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4103).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6161).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12433).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3649).jpg
+datasets/YOLO_RGB_carton/images/train2017/1183.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15187).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7252).jpg
+datasets/YOLO_RGB_carton/images/train2017/3024.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15763).jpg
+datasets/YOLO_RGB_carton/images/train2017/3243.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2663).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (122).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5798).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_145246.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5920).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3726).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6757).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1157).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13792).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5028).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (314).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2224).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3097).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12174).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_095256.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8566).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4131).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_132743_1.jpg
+datasets/YOLO_RGB_carton/images/train2017/y (84).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1023).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8640).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4117).jpg
+datasets/YOLO_RGB_carton/images/train2017/2394 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8212).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7155).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9149).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (303).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (256).jpg
+datasets/YOLO_RGB_carton/images/train2017/64.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15650).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_151324.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (420).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13726).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (276).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8924).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11483).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (591).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_125433.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (189).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11537).jpg
+datasets/YOLO_RGB_carton/images/train2017/777.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4229).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (193).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1598).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8685).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4327).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1335).jpg
+datasets/YOLO_RGB_carton/images/train2017/2675.jpg
+datasets/YOLO_RGB_carton/images/train2017/402.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (270).jpg
+datasets/YOLO_RGB_carton/images/train2017/1083.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (434).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6682).jpg
+datasets/YOLO_RGB_carton/images/train2017/965.jpg
+datasets/YOLO_RGB_carton/images/train2017/3424.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (368).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (282).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2957).jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (8).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13731).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2803).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (340).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11693).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6572).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4429).jpg
+datasets/YOLO_RGB_carton/images/train2017/67.jpg
+datasets/YOLO_RGB_carton/images/train2017/382.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (141).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6183).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4684).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13804).jpg
+datasets/YOLO_RGB_carton/images/train2017/1869.jpg
+datasets/YOLO_RGB_carton/images/train2017/1773.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8732).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7866).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1930).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6819).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8426).jpg
+datasets/YOLO_RGB_carton/images/train2017/1516.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6838).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_130003.jpg
+datasets/YOLO_RGB_carton/images/train2017/3763.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14751).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8517).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (217).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8468).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133534.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (282).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13834).jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (9).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12838).jpg
+datasets/YOLO_RGB_carton/images/train2017/719.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9428).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14700).jpg
+datasets/YOLO_RGB_carton/images/train2017/3102.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (498).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15728).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11628).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (554).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (52).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (421).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (213).jpg
+datasets/YOLO_RGB_carton/images/train2017/2449.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14492).jpg
+datasets/YOLO_RGB_carton/images/train2017/1983.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (856).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6438).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12520).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (163).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_092438.jpg
+datasets/YOLO_RGB_carton/images/train2017/3068.jpg
+datasets/YOLO_RGB_carton/images/train2017/991.jpg
+datasets/YOLO_RGB_carton/images/train2017/1661.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8271).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15578).jpg
+datasets/YOLO_RGB_carton/images/train2017/2548.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13308).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13502).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6876).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11742).jpg
+datasets/YOLO_RGB_carton/images/train2017/2836.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7045).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5440).jpg
+datasets/YOLO_RGB_carton/images/train2017/2343.jpg
+datasets/YOLO_RGB_carton/images/train2017/40.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (129).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12813).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_114559.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7035).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (119).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (272).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5966).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8821).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7138).jpg
+datasets/YOLO_RGB_carton/images/train2017/854.jpg
+datasets/YOLO_RGB_carton/images/train2017/335.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (172).jpg
+datasets/YOLO_RGB_carton/images/train2017/g2 (36).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (923).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5771).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14963).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3911).jpg
+datasets/YOLO_RGB_carton/images/train2017/2947.jpg
+datasets/YOLO_RGB_carton/images/train2017/2248.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (292).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (90).jpg
+datasets/YOLO_RGB_carton/images/train2017/3583.jpg
+datasets/YOLO_RGB_carton/images/train2017/102.jpg
+datasets/YOLO_RGB_carton/images/train2017/2422.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13558).jpg
+datasets/YOLO_RGB_carton/images/train2017/1865.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3232).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (60).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3843).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2396).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2579).jpg
+datasets/YOLO_RGB_carton/images/train2017/2254.jpg
+datasets/YOLO_RGB_carton/images/train2017/3764.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14113).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12495).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12590).jpg
+datasets/YOLO_RGB_carton/images/train2017/2704.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (365).jpg
+datasets/YOLO_RGB_carton/images/train2017/2571.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14796).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2069).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15955).jpg
+datasets/YOLO_RGB_carton/images/train2017/1271.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8307).jpg
+datasets/YOLO_RGB_carton/images/train2017/2370.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11494).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5153).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15969).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15069).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (100).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6968).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (66).jpg
+datasets/YOLO_RGB_carton/images/train2017/3311.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13097).jpg
+datasets/YOLO_RGB_carton/images/train2017/2665.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12760).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6110).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7309).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6674).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2507).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12184).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7669).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (7).jpg
+datasets/YOLO_RGB_carton/images/train2017/295.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1072).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6391).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6196).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_144102.jpg
+datasets/YOLO_RGB_carton/images/train2017/2958.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13649).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (416).jpg
+datasets/YOLO_RGB_carton/images/train2017/1590 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/3097.jpg
+datasets/YOLO_RGB_carton/images/train2017/2228.jpg
+datasets/YOLO_RGB_carton/images/train2017/924.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (915).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (185).jpg
+datasets/YOLO_RGB_carton/images/train2017/190-2.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (328).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (203).jpg
+datasets/YOLO_RGB_carton/images/train2017/2088.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11161).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (378).jpg
+datasets/YOLO_RGB_carton/images/train2017/2393.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15649).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (975).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8866).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2175).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3384).jpg
+datasets/YOLO_RGB_carton/images/train2017/3382.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (56).jpg
+datasets/YOLO_RGB_carton/images/train2017/1735.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (13).jpg
+datasets/YOLO_RGB_carton/images/train2017/2587.jpg
+datasets/YOLO_RGB_carton/images/train2017/887.jpg
+datasets/YOLO_RGB_carton/images/train2017/2069.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6402).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7567).jpg
+datasets/YOLO_RGB_carton/images/train2017/1948.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1363).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (636).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2999).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (159).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (292).jpg
+datasets/YOLO_RGB_carton/images/train2017/2743.jpg
+datasets/YOLO_RGB_carton/images/train2017/2662.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13145).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (8).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13782).jpg
+datasets/YOLO_RGB_carton/images/train2017/2905.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (335).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (219).jpg
+datasets/YOLO_RGB_carton/images/train2017/2386.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7217).jpg
+datasets/YOLO_RGB_carton/images/train2017/g2 (5).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5505).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13892).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12657).jpg
+datasets/YOLO_RGB_carton/images/train2017/578.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3119).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7508).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2282).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2761).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1985).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8932).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3228).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_131326.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5072).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (254).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (117).jpg
+datasets/YOLO_RGB_carton/images/train2017/2962.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_151441.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1462).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7226).jpg
+datasets/YOLO_RGB_carton/images/train2017/2508.jpg
+datasets/YOLO_RGB_carton/images/train2017/1518.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15452).jpg
+datasets/YOLO_RGB_carton/images/train2017/g2 (53).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3569).jpg
+datasets/YOLO_RGB_carton/images/train2017/2793.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14986).jpg
+datasets/YOLO_RGB_carton/images/train2017/3032.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (418).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3763).jpg
+datasets/YOLO_RGB_carton/images/train2017/1857.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7001).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (323).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15035).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (121).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_145118.jpg
+datasets/YOLO_RGB_carton/images/train2017/2282.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (173).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7456).jpg
+datasets/YOLO_RGB_carton/images/train2017/782.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (264).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (9).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_093437.jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (97).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14083).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5974).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3037).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9347).jpg
+datasets/YOLO_RGB_carton/images/train2017/1009.jpg
+datasets/YOLO_RGB_carton/images/train2017/2225.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3112).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_144113.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (296).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8099).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13519).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4191).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14263).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (165).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5890).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (235).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_091017.jpg
+datasets/YOLO_RGB_carton/images/train2017/753.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11607).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (218).jpg
+datasets/YOLO_RGB_carton/images/train2017/1305.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_142238.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (69).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (64).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (362).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2559).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (81).jpg
+datasets/YOLO_RGB_carton/images/train2017/1571.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11920).jpg
+datasets/YOLO_RGB_carton/images/train2017/396c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4490).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1426).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (484).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8256).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1077).jpg
+datasets/YOLO_RGB_carton/images/train2017/2886.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8995).jpg
+datasets/YOLO_RGB_carton/images/train2017/1818.jpg
+datasets/YOLO_RGB_carton/images/train2017/1443.jpg
+datasets/YOLO_RGB_carton/images/train2017/1937.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (231).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (366).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (475).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3340).jpg
+datasets/YOLO_RGB_carton/images/train2017/2648 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (697).jpg
+datasets/YOLO_RGB_carton/images/train2017/2070.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3745).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3485).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6456).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (246).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8292).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (350).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15042).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (465).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8095).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1144).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8936).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13936).jpg
+datasets/YOLO_RGB_carton/images/train2017/32.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9387).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4199).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9144).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (21).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3873).jpg
+datasets/YOLO_RGB_carton/images/train2017/2567.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1492).jpg
+datasets/YOLO_RGB_carton/images/train2017/1417.jpg
+datasets/YOLO_RGB_carton/images/train2017/1165.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4293).jpg
+datasets/YOLO_RGB_carton/images/train2017/661.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (169).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14026).jpg
+datasets/YOLO_RGB_carton/images/train2017/18351.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5616).jpg
+datasets/YOLO_RGB_carton/images/train2017/3432.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4303).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3608).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14688).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8220).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (108).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (149).jpg
+datasets/YOLO_RGB_carton/images/train2017/1586.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3676).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7290).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4026).jpg
+datasets/YOLO_RGB_carton/images/train2017/2603.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3336).jpg
+datasets/YOLO_RGB_carton/images/train2017/2205.jpg
+datasets/YOLO_RGB_carton/images/train2017/138c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4630).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (91).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (23).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3940).jpg
+datasets/YOLO_RGB_carton/images/train2017/151.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (375).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14283).jpg
+datasets/YOLO_RGB_carton/images/train2017/1988.jpg
+datasets/YOLO_RGB_carton/images/train2017/350.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (169).jpg
+datasets/YOLO_RGB_carton/images/train2017/1396.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15942).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15435).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4927).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (161).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7068).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7655).jpg
+datasets/YOLO_RGB_carton/images/train2017/973.jpg
+datasets/YOLO_RGB_carton/images/train2017/3073.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (140).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2497).jpg
+datasets/YOLO_RGB_carton/images/train2017/1804.jpg
+datasets/YOLO_RGB_carton/images/train2017/3417.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_141832.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (370).jpg
+datasets/YOLO_RGB_carton/images/train2017/323.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1617).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9093).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (29).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15139).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (179).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_140709.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2058).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_151121.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (130).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3343).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3262).jpg
+datasets/YOLO_RGB_carton/images/train2017/448.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8438).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_093256.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3549).jpg
+datasets/YOLO_RGB_carton/images/train2017/3004.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5979).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7387).jpg
+datasets/YOLO_RGB_carton/images/train2017/783.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15012).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133519.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11149).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (790).jpg
+datasets/YOLO_RGB_carton/images/train2017/2727.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6088).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5449).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1702).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (312).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (13).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8653).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11807).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4573).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6731).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (106).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_134852.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11543).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2580).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3390).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7111).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2857).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12246).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7063).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6317).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12115).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6389).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11274).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15464).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13245).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (67).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_142741.jpg
+datasets/YOLO_RGB_carton/images/train2017/1944.jpg
+datasets/YOLO_RGB_carton/images/train2017/3350.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_144422.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (294).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (156).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (329).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3906).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9747).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6352).jpg
+datasets/YOLO_RGB_carton/images/train2017/491.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2351).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1091).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1658).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7095).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_094258.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8043).jpg
+datasets/YOLO_RGB_carton/images/train2017/873.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_131545.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15720).jpg
+datasets/YOLO_RGB_carton/images/train2017/1553.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7996).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15539).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11878).jpg
+datasets/YOLO_RGB_carton/images/train2017/328.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_151037.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3720).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133622.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8581).jpg
+datasets/YOLO_RGB_carton/images/train2017/1172.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1800).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (467).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12189).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (524).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3812).jpg
+datasets/YOLO_RGB_carton/images/train2017/2364 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (178).jpg
+datasets/YOLO_RGB_carton/images/train2017/2167.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3361).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7044).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6140).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_132509.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1822).jpg
+datasets/YOLO_RGB_carton/images/train2017/1493.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13062).jpg
+datasets/YOLO_RGB_carton/images/train2017/1324.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13128).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14669).jpg
+datasets/YOLO_RGB_carton/images/train2017/3539.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (448).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13788).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15753).jpg
+datasets/YOLO_RGB_carton/images/train2017/810c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/219.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (13).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (444).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7311).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (184).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (87).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (162).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7581).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (334).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3194).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (324).jpg
+datasets/YOLO_RGB_carton/images/train2017/3172.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (243).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14339).jpg
+datasets/YOLO_RGB_carton/images/train2017/1229.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4249).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6048).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15273).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6390).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8495).jpg
+datasets/YOLO_RGB_carton/images/train2017/2820.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7026).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1794).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6430).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (188).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5248).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7703).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6287).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13509).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (247).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (229).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6365).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (232).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3263).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (281).jpg
+datasets/YOLO_RGB_carton/images/train2017/461.jpg
+datasets/YOLO_RGB_carton/images/train2017/851.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_145710.jpg
+datasets/YOLO_RGB_carton/images/train2017/1547.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (401).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3717).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13744).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_143328.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9244).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2605).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (91).jpg
+datasets/YOLO_RGB_carton/images/train2017/3606.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (278).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_125959.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6825).jpg
+datasets/YOLO_RGB_carton/images/train2017/1473.jpg
+datasets/YOLO_RGB_carton/images/train2017/2163.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (237).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (21).jpg
+datasets/YOLO_RGB_carton/images/train2017/705 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6177).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9032).jpg
+datasets/YOLO_RGB_carton/images/train2017/1676.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (185).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6186).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8646).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15833).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14048).jpg
+datasets/YOLO_RGB_carton/images/train2017/3503.jpg
+datasets/YOLO_RGB_carton/images/train2017/3565.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2506).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5836).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4124).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13698).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_135519.jpg
+datasets/YOLO_RGB_carton/images/train2017/2174.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12488).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (133).jpg
+datasets/YOLO_RGB_carton/images/train2017/756c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4030).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7620).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6091).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (124).jpg
+datasets/YOLO_RGB_carton/images/train2017/1110.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (103).jpg
+datasets/YOLO_RGB_carton/images/train2017/3257.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (261).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (247).jpg
+datasets/YOLO_RGB_carton/images/train2017/3106.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11163).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2101).jpg
+datasets/YOLO_RGB_carton/images/train2017/2425.jpg
+datasets/YOLO_RGB_carton/images/train2017/2313.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (293).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8498).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133947.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12144).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (118).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3362).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (76).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6908).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (164).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (104).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2357).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (25).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7630).jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (49).jpg
+datasets/YOLO_RGB_carton/images/train2017/2644.jpg
+datasets/YOLO_RGB_carton/images/train2017/1791.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (306).jpg
+datasets/YOLO_RGB_carton/images/train2017/1144.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6567).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (353).jpg
+datasets/YOLO_RGB_carton/images/train2017/3187.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2967).jpg
+datasets/YOLO_RGB_carton/images/train2017/3060.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2597).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (376).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11566).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12441).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7455).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7325).jpg
+datasets/YOLO_RGB_carton/images/train2017/1436.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (299).jpg
+datasets/YOLO_RGB_carton/images/train2017/985.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_130254.jpg
+datasets/YOLO_RGB_carton/images/train2017/2259.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1700).jpg
+datasets/YOLO_RGB_carton/images/train2017/2596.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13878).jpg
+datasets/YOLO_RGB_carton/images/train2017/2899.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5800).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2446).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5323).jpg
+datasets/YOLO_RGB_carton/images/train2017/1509.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5637).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (468).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (379).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2856).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15270).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14076).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1691).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7945).jpg
+datasets/YOLO_RGB_carton/images/train2017/689.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8524).jpg
+datasets/YOLO_RGB_carton/images/train2017/3371.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_131418.jpg
+datasets/YOLO_RGB_carton/images/train2017/2708.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8249).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11088).jpg
+datasets/YOLO_RGB_carton/images/train2017/3510.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2659).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4759).jpg
+datasets/YOLO_RGB_carton/images/train2017/1037.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (149).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (54).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12788).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11760).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13086).jpg
+datasets/YOLO_RGB_carton/images/train2017/2064.jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (96).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_131243.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (160).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8280).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8282).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3958).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3780).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14217).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11978).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5791).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (378).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (157).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2706).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7236).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13651).jpg
+datasets/YOLO_RGB_carton/images/train2017/3435.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8291).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (334).jpg
+datasets/YOLO_RGB_carton/images/train2017/407.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16045).jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (97).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2909).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (453).jpg
+datasets/YOLO_RGB_carton/images/train2017/g1 (11).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4758).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (150).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7378).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11775).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9754).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133147.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2952).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_135225.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1642).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1490).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (339).jpg
+datasets/YOLO_RGB_carton/images/train2017/390c1.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (84).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (206).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3108).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2884).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13414).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3305).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14809).jpg
+datasets/YOLO_RGB_carton/images/train2017/1950.jpg
+datasets/YOLO_RGB_carton/images/train2017/2795.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (378).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (16003).jpg
+datasets/YOLO_RGB_carton/images/train2017/3427.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7457).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15909).jpg
+datasets/YOLO_RGB_carton/images/train2017/565.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12983).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9201).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13288).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (71).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (431).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (250).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (324).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (329).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5661).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4109).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_151003.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6707).jpg
+datasets/YOLO_RGB_carton/images/train2017/3326.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5049).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11432).jpg
+datasets/YOLO_RGB_carton/images/train2017/3089.jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (62).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_130656.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (102).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8493).jpg
+datasets/YOLO_RGB_carton/images/train2017/g2 (14).jpg
+datasets/YOLO_RGB_carton/images/train2017/2609.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (108).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (688).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (782).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2815).jpg
+datasets/YOLO_RGB_carton/images/train2017/386.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6171).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2628).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13905).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6170).jpg
+datasets/YOLO_RGB_carton/images/train2017/3669.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5160).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_143829.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7608).jpg
+datasets/YOLO_RGB_carton/images/train2017/2523.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3338).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7191).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14009).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (186).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11649).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8717).jpg
+datasets/YOLO_RGB_carton/images/train2017/263.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6320).jpg
+datasets/YOLO_RGB_carton/images/train2017/440.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (57).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7304).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14685).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_091207.jpg
+datasets/YOLO_RGB_carton/images/train2017/13791.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5615).jpg
+datasets/YOLO_RGB_carton/images/train2017/1843.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8842).jpg
+datasets/YOLO_RGB_carton/images/train2017/5 (85).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (429).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2461).jpg
+datasets/YOLO_RGB_carton/images/train2017/1213.jpg
+datasets/YOLO_RGB_carton/images/train2017/1927 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2941).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8208).jpg
+datasets/YOLO_RGB_carton/images/train2017/1628.jpg
+datasets/YOLO_RGB_carton/images/train2017/27.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (557).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (271).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3253).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (277).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (307).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (367).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1407).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6329).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (300).jpg
+datasets/YOLO_RGB_carton/images/train2017/1069.jpg
+datasets/YOLO_RGB_carton/images/train2017/3231.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11365).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13546).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_131500.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2436).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11540).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (193).jpg
+datasets/YOLO_RGB_carton/images/train2017/458.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (883).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6910).jpg
+datasets/YOLO_RGB_carton/images/train2017/2237.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11373).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4317).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (19).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_133058.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (14).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8303).jpg
+datasets/YOLO_RGB_carton/images/train2017/00.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15025).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14855).jpg
+datasets/YOLO_RGB_carton/images/train2017/2666.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7544).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13162).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1339).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (549).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (91).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15488).jpg
+datasets/YOLO_RGB_carton/images/train2017/1822.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (78).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (313).jpg
+datasets/YOLO_RGB_carton/images/train2017/3344.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12594).jpg
+datasets/YOLO_RGB_carton/images/train2017/3481.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11704).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6159).jpg
+datasets/YOLO_RGB_carton/images/train2017/3425.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (199).jpg
+datasets/YOLO_RGB_carton/images/train2017/225.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8242).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (118).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7232).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (271).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1357).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (198).jpg
+datasets/YOLO_RGB_carton/images/train2017/339.jpg
+datasets/YOLO_RGB_carton/images/train2017/3169.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (619).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (873).jpg
+datasets/YOLO_RGB_carton/images/train2017/372c2.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4967).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (184).jpg
+datasets/YOLO_RGB_carton/images/train2017/707.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13961).jpg
+datasets/YOLO_RGB_carton/images/train2017/2714.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6338).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (193).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2781).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8610).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3022).jpg
+datasets/YOLO_RGB_carton/images/train2017/354c2.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (25).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13266).jpg
+datasets/YOLO_RGB_carton/images/train2017/1197.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6223).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (151).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_140106.jpg
+datasets/YOLO_RGB_carton/images/train2017/w (67).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7985).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8620).jpg
+datasets/YOLO_RGB_carton/images/train2017/548 (2).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (128).jpg
+datasets/YOLO_RGB_carton/images/train2017/3421.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9284).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (525).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7274).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15255).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (209).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2265).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14234).jpg
+datasets/YOLO_RGB_carton/images/train2017/2428.jpg
+datasets/YOLO_RGB_carton/images/train2017/1181.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2048).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3702).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (156).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8294).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (432).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13750).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (233).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4227).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9313).jpg
+datasets/YOLO_RGB_carton/images/train2017/3037.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14350).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (468).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9175).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14712).jpg
+datasets/YOLO_RGB_carton/images/train2017/3671.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (834).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (120).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6398).jpg
+datasets/YOLO_RGB_carton/images/train2017/1164.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (257).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15673).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (234).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (116).jpg
+datasets/YOLO_RGB_carton/images/train2017/395.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (76).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3604).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5582).jpg
+datasets/YOLO_RGB_carton/images/train2017/2540.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3457).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (141).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15024).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3865).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (384).jpg
+datasets/YOLO_RGB_carton/images/train2017/1053.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_142356.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7503).jpg
+datasets/YOLO_RGB_carton/images/train2017/2158.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_090928.jpg
+datasets/YOLO_RGB_carton/images/train2017/1302.jpg
+datasets/YOLO_RGB_carton/images/train2017/322.jpg
+datasets/YOLO_RGB_carton/images/train2017/2807.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1710).jpg
+datasets/YOLO_RGB_carton/images/train2017/3414.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2926).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3208).jpg
+datasets/YOLO_RGB_carton/images/train2017/6 (189).jpg
+datasets/YOLO_RGB_carton/images/train2017/1290.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4543).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (86).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13541).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8570).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_142824.jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (470).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7590).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15688).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2108).jpg
+datasets/YOLO_RGB_carton/images/train2017/986.jpg
+datasets/YOLO_RGB_carton/images/train2017/809.jpg
+datasets/YOLO_RGB_carton/images/train2017/48.jpg
+datasets/YOLO_RGB_carton/images/train2017/551.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11809).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15621).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (378).jpg
+datasets/YOLO_RGB_carton/images/train2017/1951.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1006).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (90).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (208).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14677).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3284).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3523).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14349).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1197).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (89).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13926).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1736).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12374).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3944).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14555).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (221).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (67).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8176).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (333).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11233).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8607).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1109).jpg
+datasets/YOLO_RGB_carton/images/train2017/3363.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (363).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (72).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (910).jpg
+datasets/YOLO_RGB_carton/images/train2017/2455.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15213).jpg
+datasets/YOLO_RGB_carton/images/train2017/3452.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6068).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3053).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4052).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (431).jpg
+datasets/YOLO_RGB_carton/images/train2017/2485.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7514).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15416).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_135454.jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (258).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (111).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (9035).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7096).jpg
+datasets/YOLO_RGB_carton/images/train2017/3128.jpg
+datasets/YOLO_RGB_carton/images/train2017/2288.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (938).jpg
+datasets/YOLO_RGB_carton/images/train2017/4 (177).jpg
+datasets/YOLO_RGB_carton/images/train2017/g3 (125).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1478).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7566).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (787).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6543).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (4866).jpg
+datasets/YOLO_RGB_carton/images/train2017/2009.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8244).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7129).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7260).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3907).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14280).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8612).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11236).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (424).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13463).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14273).jpg
+datasets/YOLO_RGB_carton/images/train2017/w (146).jpg
+datasets/YOLO_RGB_carton/images/train2017/1508.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8671).jpg
+datasets/YOLO_RGB_carton/images/train2017/2869.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (895).jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (185).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7277).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (421).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8258).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15696).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15624).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2094).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (277).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8926).jpg
+datasets/YOLO_RGB_carton/images/train2017/1500.jpg
+datasets/YOLO_RGB_carton/images/train2017/2878.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_124222.jpg
+datasets/YOLO_RGB_carton/images/train2017/1010.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_142725.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1923).jpg
+datasets/YOLO_RGB_carton/images/train2017/1991.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8213).jpg
+datasets/YOLO_RGB_carton/images/train2017/1836.jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_092648.jpg
+datasets/YOLO_RGB_carton/images/train2017/692.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11117).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1126).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (181).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15197).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (392).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6128).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12690).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1888).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20200917_121244.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1861).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7322).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7568).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13612).jpg
+datasets/YOLO_RGB_carton/images/train2017/713.jpg
+datasets/YOLO_RGB_carton/images/train2017/2441.jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (40).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2278).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (875).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (458).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1939).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (30).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (386).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (151).jpg
+datasets/YOLO_RGB_carton/images/train2017/1830.jpg
+datasets/YOLO_RGB_carton/images/train2017/l (293).jpg
+datasets/YOLO_RGB_carton/images/train2017/1942.jpg
+datasets/YOLO_RGB_carton/images/train2017/2 (56).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7454).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (356).jpg
+datasets/YOLO_RGB_carton/images/train2017/1 (237).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14668).jpg
+datasets/YOLO_RGB_carton/images/train2017/IMG_20191125_144409.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1153).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1811).jpg
+datasets/YOLO_RGB_carton/images/train2017/3 (506).jpg
+datasets/YOLO_RGB_carton/images/train2017/1606.jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7635).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8470).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (2494).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6672).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (15124).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14770).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (104).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1514).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (7561).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3844).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (5371).jpg
+datasets/YOLO_RGB_carton/images/train2017/y (194).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (1998).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (6691).jpg
+datasets/YOLO_RGB_carton/images/train2017/l (86).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (8083).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (11894).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (13614).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3788).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (14434).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3585).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (3804).jpg
+datasets/YOLO_RGB_carton/images/train2017/net (12012).jpg
+datasets/YOLO_RGB_carton/images/train2017/641.jpg

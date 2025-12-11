@@ -1,0 +1,8 @@
+Ultralytics 8.3.27 🚀 Python-3.9.20 torch-2.1.0+cu121 CUDA:0 (NVIDIA L20, 45458MiB)
+YOLO11-rgbd summary (fused): 238 layers, 2,582,347 parameters, 0 gradients, 6.3 GFLOPs
+                   all         71       1237      0.823      0.844      0.896      0.556
+Speed: 1.1ms preprocess, 6.2ms inference, 0.0ms loss, 5.8ms postprocess per image
+Saving runs/detect/val6/predictions.json...
+Results saved to [1mruns/detect/val6[0m
+💡 Learn more at https://docs.ultralytics.com/modes/val
+[34m[1mVS Code:[0m view Ultralytics VS Code Extension ⚡ at https://docs.ultralytics.com/integrations/vscode

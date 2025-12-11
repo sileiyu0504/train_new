@@ -1,5 +1,7 @@
 # Hard Negative test set (no cartons). Labels are empty; any prediction counts as FP.
 path: /mnt/e/Desktop/train_new/datasets/YOLO_HN
+train: images/val  # placeholder to satisfy check_det_dataset
+val: images/val    # placeholder to satisfy check_det_dataset
 test: images/val
 
 # If pseudo-depth is generated for HN, uncomment below.

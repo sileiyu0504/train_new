@@ -1,8 +1,12 @@
 # Real RGB-D test set (sensor-captured), used only for evaluation
 path: /mnt/e/Desktop/train_new/datasets/YOLO_RGBD_carton
+train: images/val  # placeholder to satisfy check_det_dataset
+val: images/val    # placeholder to satisfy check_det_dataset
 test: images/val
 
 depth:
+  train: depth/val
+  val: depth/val
   test: depth/val
 depth_scale: 65535.0
 # Per-image min-max normalization in YOLODataset keeps distribution aligned with pseudo-depth.

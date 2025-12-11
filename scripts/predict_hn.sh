@@ -17,9 +17,10 @@ for name in "${!RUNS[@]}"; do
   yolo task=detect mode=predict \
     model="${weight}" \
     data=data_test_hn.yaml \
+    source=datasets/YOLO_HN/images/val \
     save_txt=true save_conf=true \
-    project=runs/hn --name "${name}" \
-    > "${log_file}" 2>&1
+    project=runs/hn name="${name}" \
+    | tee "${log_file}"
 done
 
 echo "[INFO] HN predictions done. Outputs in runs/hn/<run>/labels"
